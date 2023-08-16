@@ -28,6 +28,6 @@ void main(List<String> args){
       hoy="Sabado";
       break;
     default:
-    hoy="No";
+    hoy="No existe";
   }
 }
