@@ -3,7 +3,7 @@
 void main(List<String> args){
   //switch
   int dia=2;
-  String hoy="";
+  String hoy="2";
 
   switch (dia) {
     case 1:
